@@ -24,7 +24,7 @@
     "invoke"
   ],
   "dependencies": {
-    "cli-define": "^0.5.43",
+    "cli-define": "^0.6.4",
     "cli-error": "^0.5.7"
   },
   "devDependencies": {
